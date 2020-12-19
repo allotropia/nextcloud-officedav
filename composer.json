@@ -1,0 +1,15 @@
+{
+    "name": "Office Web D A V",
+    "description": "Desktop integration for Office files",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "allotropia software GmbH"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
